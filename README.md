@@ -68,3 +68,17 @@ add the file in the corresponding branch
       - require that PR are approved before merging
       - restrict who can delete the branches
 
+## Restrict our repo
+clicking Private
+
+to collaborate : 
+-> give access to collaborators : Manage access 
+Add them by username
+
+## Personal Access Tokens
+A PAT is an alternative to a password when authentication is required for terminal commands
+
+- git clone : clone a repo
+
+> Settings > Developper settings > PAT
+
