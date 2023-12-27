@@ -1,6 +1,7 @@
 # GitHelp
 Help to use GIT 
 
+# CHAPTER 1
 ______________________________
 # Heading 1
 ## Heading 2
@@ -41,9 +42,12 @@ Extras :
 Example : 
 ______________________________
 
-# About GitHelp
+## About GitHelp
 This project is used to help me to keep information concerning the use of GitHub
 
 ##### credit : [Datacamp](https://campus.datacamp.com/courses/github-concepts/working-with-repos?ex=1)
+
+
+# CHAPTER 2
 
 
