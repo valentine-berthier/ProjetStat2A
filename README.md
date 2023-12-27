@@ -54,3 +54,17 @@ can create a file
 or 
 upload a local file (already coded in our machine)
 
+# CHAPTER 3 : Working with Branches
+- Enable concurrent work on differents parts of a project
+- help reduce the risk of conflicting file versions
+
+One main branch 
+
+> New branch : to create a new branch
+add the file in the corresponding branch
+> Branch protection rules :
+  - rules for specific braznches
+      - require a Pull Request before merging
+      - require that PR are approved before merging
+      - restrict who can delete the branches
+
