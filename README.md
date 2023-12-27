@@ -50,4 +50,7 @@ This project is used to help me to keep information concerning the use of GitHub
 
 # CHAPTER 2
 
+can create a file 
+or 
+upload a local file (already coded in our machine)
 
